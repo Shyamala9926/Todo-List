@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Sound generation after clicking the button
+    </title>
+
+    <link rel="stylesheet"
+        href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+    <script src='https://code.jquery.com/jquery-2.2.0.min.js'>
+    </script>
+    <script
+        src='https://cdn.rawgit.com/admsev/jquery-play-sound/master/jquery.playSound.js'>
+        </script>
+</head>
+
+<body style="text-align:center;">
+    <div class="container-fluid" style="margin:35px;">
+        <p style="font-size:30px;">
+            <strong>
+                Click on the button to generate sound
+            </strong>
+        </p>
+
+        <br><br>
+
+        <button class="btn btn-primary"
+            onclick='$.playSound(
+"https://media.geeksforgeeks.org/wp-content/uploads/20241003145702/WCSC5KW-message-notification.mp3")'>
+            Click Me!
+        </button>
+    </div>
+</body>
+
+</html>
