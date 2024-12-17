@@ -1,7 +1,8 @@
-🛠️# To-Do List App 
+ # To-Do List App 
 
-🗒️ ## **Description**
- The ToDo List App is a simple and intuitive web application designed to help users.
+ ## **Description**
+🗒️ The ToDo List App is a simple and intuitive web application designed to help users.
+ 
 ## 🌟**Features**
 - **Task Management**: Add, edit, and delete tasks with ease.
 # URL
