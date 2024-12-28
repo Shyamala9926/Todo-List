@@ -4,7 +4,7 @@
 🗒️ The ToDo List App is a simple and intuitive web application designed to help users.
  
 ## 🌟**Features**
-- **Task Management**: Add, edit, Update and delete tasks with ease way.
+- **Task Management**: Add, Edit, Update and Delete tasks with ease way.
 # URL
 - To Open App: https://shyamala9926.github.io/Todo-List/
   
