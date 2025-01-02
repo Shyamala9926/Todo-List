@@ -1,5 +1,5 @@
  # To-Do List App 
- By using React
+ By using HTML,CSS,Javascript
 
  ## **Description**
 🗒️ The ToDo List App is a simple and intuitive web application designed to help users.
