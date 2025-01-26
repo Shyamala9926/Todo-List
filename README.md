@@ -7,7 +7,7 @@
 ## 🌟**Features**
 - **Task Management**: Add, Edit, Update and Delete tasks with ease way.
 # URL
-- To Open App: https://shyamala9926.github.io/Todo-List/
+- 📸 To Open App: https://shyamala9926.github.io/Todo-List/
   
 <img width="558" alt="Todo-List Home page" src="https://github.com/user-attachments/assets/16d0e406-e9f6-4f36-948a-d573f8a75b41" />
 
